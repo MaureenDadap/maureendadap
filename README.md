@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello, I'm Maureen 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maureendadap&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maureendadap&show_icons=true&theme=transparent&count_private=true)
+<br>
+<br>
+
+<span style="display:inline-block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maureendadap&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span style="display:inline-block">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maureendadap&show_icons=true&theme=transparent&count_private=true)</span>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
