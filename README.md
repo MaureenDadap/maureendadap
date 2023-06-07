@@ -1,4 +1,4 @@
-### Hello, I'm Maureen 👋
+### Hello! 👋
 
 ![Metrics](/github-metrics.svg)
 
