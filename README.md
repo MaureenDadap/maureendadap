@@ -2,12 +2,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-<br>
-<br>
-
-<span style="display:inline-block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maureendadap&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</span>
-<span style="display:inline-block">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maureendadap&show_icons=true&theme=transparent&count_private=true)</span>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-280%20hrs%2044%20mins-blue)
 
@@ -91,6 +85,10 @@ SCSS                     1 repo              █░░░░░░░░░░�
  Last Updated on 07/06/2023 13:01:23 UTC
 <!--END_SECTION:waka-->
 
+<hr>
+
+<span style="display:inline-block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maureendadap&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span style="display:inline-block">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maureendadap&show_icons=true&theme=transparent&count_private=true)</span>
 
 <!--
 **MaureenDadap/maureendadap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
