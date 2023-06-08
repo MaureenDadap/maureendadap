@@ -15,6 +15,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          user: MaureenDadap
-          repo: metrics
+          filename: metrics.classic.svg
+          base: header, repositories
+          plugin_lines: yes
