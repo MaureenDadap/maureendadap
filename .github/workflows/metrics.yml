@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           template: repository
-          user: maureendadap
+          user: MaureenDadap
           repo: metrics
