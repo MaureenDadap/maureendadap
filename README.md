@@ -3,13 +3,9 @@
 ![Metrics](/metrics.classic.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%205%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 405.7 kB Used in GitHub's Storage 
- > 
-> 🏆 1,433 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,7 +74,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 01:02:40 UTC
+ Last Updated on 16/06/2024 01:06:14 UTC
 <!--END_SECTION:waka-->
 
 <hr>
