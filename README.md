@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-![Metrics](/metrics.classic.svg) ![MetricsWakatime](/metrics.plugin.wakatime.svg)
+![MetricsWakatime](/metrics.plugin.wakatime.svg)
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
