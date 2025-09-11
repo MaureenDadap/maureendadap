@@ -79,11 +79,6 @@ Go                       1 repo              ░░░░░░░░░░░�
  Last Updated on 10/09/2025 01:57:40 UTC
 <!--END_SECTION:waka-->
 
-<hr>
-
-<span style="display:inline-block">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maureendadap&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)</span>
-<span style="display:inline-block">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maureendadap&show_icons=true&theme=transparent&count_private=true)</span>
-
 <!--
 **MaureenDadap/maureendadap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
